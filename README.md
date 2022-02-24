@@ -14,4 +14,4 @@ This repository contains materials of [Food Classification with Transfer Learnin
   
 ## Course Certificate
 
-- [https://www.coursera.org/account/accomplishments/certificate/54FXCMAAWZJ9)
+- [Certificate of Completion](https://www.coursera.org/account/accomplishments/certificate/54FXCMAAWZJ9)
